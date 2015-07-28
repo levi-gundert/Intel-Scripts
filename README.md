@@ -1,6 +1,6 @@
 # Intel-Scripts
 
-Quick and dirty scripts to accomplish specific repeated threat intelligence identification, collection, and parsing tasks.
+This repository contains quick and dirty scripts to accomplish specific threat information identification, collection, and parsing tasks.
 
 Imported modules abound and their respective installation is required prior to executing any of these scripts.
 
