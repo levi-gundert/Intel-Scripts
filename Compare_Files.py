@@ -2,7 +2,7 @@
 
 '''
 
-Identify lines in common and count their frequency across multiple files within a user define directory
+Identify lines in common and count their frequency across multiple files within a user defined directory
 
 '''
 
